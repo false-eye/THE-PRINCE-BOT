@@ -55,12 +55,12 @@ let infobt = `
 ▢ *${chats.length - groupsIn.length}* private chats
 ▢ *${chats.length}* Total Chats
 
-*≡ OWNER🧑‍💻*
- _PRINCE GDS_
-▢ https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11
+*≡ OWNER*
+ _𝒇𝒂𝒍𝒔𝒆 𝒆𝒚𝒆_
+▢ https://instagram.com/false_eye
   
-▢ MY BOT GC LINK.
-  https://chat.whatsapp.com/Jo5bmHMAlZpEIp75mKbwxP
+▢ TG CHANNEL
+  https://t.me/sarca_stics
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
