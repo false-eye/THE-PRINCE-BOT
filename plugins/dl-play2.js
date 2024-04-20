@@ -13,7 +13,7 @@ let limit_a2 = 400;
 const handler = async (m, {conn, command, args, text, usedPrefix}) => {
   if (!args[0] && m.quoted && m.quoted.text) {
   }
-  if (!args[0] && !m.quoted) throw `🅔🅖   *${usedPrefix}${command}*  𝙰𝚢𝚊𝚊 𝚑𝚊𝚒 𝚋𝚞𝚕𝚊𝚠𝚊 𝙽𝚊𝚊𝚝...`;
+  if (!args[0] && !m.quoted) throw `🅔🅖   *${usedPrefix}${command}*  The Colour Violet Tory Lanez`;
 
   try {
     m.react("📥")
@@ -31,7 +31,7 @@ const handler = async (m, {conn, command, args, text, usedPrefix}) => {
   ⏰ Duration: ${secondString(yt_play[0].duration.seconds)}
   🎴 Views: ${yt_play[0].views}
   🔗 Link: ${yt_play[0].url}
-⊱─━⊱༻ⓅⓇⒾⓃⒸⒺⒷⓄⓉ༺⊰━─⊰`;
+⊱─━⊱༻9ine.x3༺⊰━─⊰`;
     conn.sendMessage(m.chat, {image: {url: yt_play[0].thumbnail}, caption: texto1}, {quoted: m});
     if (command == 'play') {
     try {
