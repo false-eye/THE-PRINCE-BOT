@@ -15,15 +15,15 @@ const handler = async (m, {
     args,
     usedPrefix
 }) => {
-    if (!text) throw `*_give a text to search_* \n*_Example: ${usedPrefix + command} A Subz gumbad waly naat Ahmed Raza Qadri_*`;
+    if (!text) throw `*_give a text to search_* \n*_Example: ${usedPrefix + command} Agora Hills Doja Cat_*`;
     conn.GURUPLAY = conn.GURUPLAY ? conn.GURUPLAY : {};
     await conn.reply(m.chat, wait, m);
     const result = await searchAndDownloadMusic(text);
-    const infoText = `🎧🎼『 *ᴘʀɪɴᴄᴇ ᴘʟᴀʏᴇʀ* 』🎼🎧
+    const infoText = `🎧🎼『 *9ine.x3 Player* 』🎼🎧
 
     
    
-*🎶ᖇEᑭᒪY ᗯITᕼ ᑎᑌᗰᗷEᖇ TO GET YOᑌᖇ ᗩᑌᗪIO🎵*`;
+*REPLY WITH NUMBERS TO GET YOUR AUDIO*`;
 
 const orderedLinks = result.allLinks.map((link, index) => {
     const sectionNumber = index + 1;
