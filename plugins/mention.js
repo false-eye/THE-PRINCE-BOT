@@ -1,11 +1,11 @@
 let handler = m => m
 handler.all = async function (m, conn) {
-    var vn = "https://github.com/PRINCE-GDS/THE-PRINCE-BOTraw/main/Assets/mp3/Audio5.mp3"
-    let url = "https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS"
-    let murl = "https://instagram.com/prince_gds?igshid=OGQ5ZDc2ODk2ZA=="
+    var vn = "https://github.com/false-eye/THE-PRINCE-BOTraw/main/Assets/mp3/Audio5.mp3"
+    let url = "https://t.me/sarca_stics"
+    let murl = "https://instagram.com/false_eye"
     let hash = global.princebot
-    let img = "https://i.imgur.com/8ltcrED.jpeg"
-    let num = "923042205427"
+    let img = "https://telegra.ph/file/81557b0cd9531411346f3.jpg"
+    let num = "919539901834"
 
     let doc = {
         audio: {
@@ -14,7 +14,7 @@ handler.all = async function (m, conn) {
         mimetype: 'audio/mpeg',
         ptt: true,
         waveform: [0,99,0,99,0,99,0],
-        fileName: "Guru",
+        fileName: "9ine.x3",
     
         contextInfo: {
           mentionedJid: [m.sender],
