@@ -42,7 +42,7 @@
        
        
    #### 2. Deploy Now.
-   <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/false-eye/MR-PRINCE-BOT"> <img src="https://img.shields.io/badge/Heroku%20Deploy-black?style=for-the-badge&logo=heroku" width="200" height="30.45"/></a></p>
+   <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/PRINCE-GDS/MR-PRINCE-BOT"> <img src="https://img.shields.io/badge/Heroku%20Deploy-black?style=for-the-badge&logo=heroku" width="200" height="30.45"/></a></p>
 
 
 
@@ -85,4 +85,3 @@
 <a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="70" height="70" alt="Guru322"/></a>
   
 `GURU Guru322`
-
